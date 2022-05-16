@@ -1,7 +1,7 @@
   "tokens": [
     {
       "name": "JoeDAO",
-      "symbol": "JOE".
+      "symbol": "JOE",
       "decimals": 6,
       "token_address": "juno1n7n7d5088qlzlj37e9mgmkhx6dfgtvt02hqxq66lcap4dxnzdhwqfmgng3",
       "what dex is this listed on": "junoswap.com",
@@ -13,7 +13,7 @@
     },
         {
       "name": "example",
-      "symbol": "EXAMPLE".
+      "symbol": "EXAMPLE",
       "decimals": ,
       "token_address": "ADDRESS",
       "what dex is this listed on": "WEBSITE",
