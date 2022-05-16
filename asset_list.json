@@ -1,0 +1,26 @@
+  "tokens": [
+    {
+      "name": "JoeDAO",
+      "symbol": "JOE".
+      "decimals": 6,
+      "token_address": "juno1n7n7d5088qlzlj37e9mgmkhx6dfgtvt02hqxq66lcap4dxnzdhwqfmgng3",
+      "what dex is this listed on": "junoswap.com",
+      "logoURI": "https://raw.githubusercontent.com/osmosis-labs/assetlists/main/images/juno.png",
+      "twitter_link": "https://twitter.com/joedaoofficial",
+      "discord_link": "https://discord.gg/j4xj9fJjJM",
+      "telegram_link": "N/A",
+      "website_link": "https://joedao.io",
+    },
+        {
+      "name": "example",
+      "symbol": "EXAMPLE".
+      "decimals": ,
+      "token_address": "ADDRESS",
+      "what dex is this listed on": "WEBSITE",
+      "logoURI": "LINK TO IMAGE",
+      "twitter_link": "LINK",
+      "discord_link": "LINK",
+      "telegram_link": "LINK",
+      "website_link": "LINK",
+    },
+    ]
